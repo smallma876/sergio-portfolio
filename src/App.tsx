@@ -1,9 +1,10 @@
+import { TextBody } from "@sergio.mallma/portfolio-components"
 
 function App() {
 
   return (
     <>
-      <div> hola mundo </div>
+      <TextBody> hola mundo </TextBody>
     </>
   )
 }
